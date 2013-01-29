@@ -1,0 +1,1248 @@
+Archive member included because of file (symbol)
+
+C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+                              THUMB Debug/system_stm32f0xx.o (__aeabi_uidiv)
+C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+                              (__vfprintf_int)
+C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+                              (__vfscanf_int)
+C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                              C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o) (__getc)
+C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+                              C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o) (memcpy)
+C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+                              (__do_debug_operation_mempoll)
+C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+                              C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o) (__errno)
+C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+                              C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o) (__aeabi_i2f)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 THUMB Debug/main.o
+ .data          0x00000000        0x0 THUMB Debug/main.o
+ .bss           0x00000000        0x0 THUMB Debug/main.o
+ .text          0x00000000        0x0 THUMB Debug/system_stm32f0xx.o
+ .data          0x00000000        0x0 THUMB Debug/system_stm32f0xx.o
+ .bss           0x00000000        0x0 THUMB Debug/system_stm32f0xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 THUMB Debug/system_stm32f0xx.o
+ .data.AHBPrescTable
+                0x00000000       0x10 THUMB Debug/system_stm32f0xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xdc THUMB Debug/system_stm32f0xx.o
+ .text          0x00000000        0x0 THUMB Debug/thumb_crt0.o
+ .data          0x00000000        0x0 THUMB Debug/thumb_crt0.o
+ .bss           0x00000000        0x0 THUMB Debug/thumb_crt0.o
+ .stack         0x00000000        0x0 THUMB Debug/thumb_crt0.o
+ .stack_process
+                0x00000000        0x0 THUMB Debug/thumb_crt0.o
+ .heap          0x00000000        0x0 THUMB Debug/thumb_crt0.o
+ .text          0x00000000        0x0 THUMB Debug/STM32_Startup.o
+ .data          0x00000000        0x0 THUMB Debug/STM32_Startup.o
+ .bss           0x00000000        0x0 THUMB Debug/STM32_Startup.o
+ .text.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .data.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .bss.libc      0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r4
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r1
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r2
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r3
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r0
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r5
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_sp
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r7
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r8
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r9
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_sl
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_r6
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_lr
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_ip
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc._call_via_fp
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_umod
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_asr
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_div
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_lsl
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_lsr
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_mod
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_udivmod
+                0x00000000       0xac C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__aeabi_ldivmod
+                0x00000000       0x48 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_cmp
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int64_ucmp
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.muldi3
+                0x00000000       0x60 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int32_umod
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .rodata.libc.__aeabi_uidiv
+                0x00000000       0x40 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__int32_mod
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__aeabi_idivmod
+                0x00000000       0x40 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_shi
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_si
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_sqi
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_uhi
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text.libc.__gnu_thumb1_case_uqi
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .text          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .data          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .bss           0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .text.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .text          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .data          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .bss           0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .text.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .text          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .data          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss           0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.twodigit
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.month_name
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.checked_day_name
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_ch
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_str
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_nstr
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_digit
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_twodigit
+                0x00000000       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_twodigits_leading_blank
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_twodigit2
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.put_formatted
+                0x00000000      0x304 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.put_formatted
+                0x00000000      0x154 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.__RAL_pow10
+                0x00000000       0x68 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.__stdin_ungetc
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.__xlltoa
+                0x00000000       0x88 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.__xltoa
+                0x00000000       0x70 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.__xtoa
+                0x00000000       0x70 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.abs
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.asctime_r
+                0x00000000       0xbc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.asctime
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.atexit
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc._execute_at_exit_fns
+                0x00000000       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.bsearch
+                0x00000000       0x70 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ctl_is_exact_power_of_two
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ctl_round_power_of_two
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ctl_count_leading_zeroes
+                0x00000000       0x4c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ctl_ilogb
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.buddy_alloc
+                0x00000000       0xec C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.buddy_free
+                0x00000000       0xd0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.buddy_heap_init
+                0x00000000       0x98 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.isalpha
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.isxdigit
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.__strtoull
+                0x00000000      0x138 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.__strtoul
+                0x00000000       0xf8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ispunct
+                0x00000000       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.isalnum
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.isprint
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.isgraph
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.iscntrl
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.tolower
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.toupper
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.isblank
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.div
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.itoa
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.labs
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ldiv
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.linked_heap_init
+                0x00000000       0x48 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.linked_heap_alloc
+                0x00000000       0xa0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.linked_heap_free
+                0x00000000       0xc0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.linked_heap_realloc
+                0x00000000       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.llabs
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.lldiv
+                0x00000000       0x60 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.lltoa
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.localeconv
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.setlocale
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ltoa
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.malloc
+                0x00000000       0x80 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.calloc
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.free
+                0x00000000       0x98 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.realloc
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.memccpy
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.mempcpy
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.memchr
+                0x00000000       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.memcmp
+                0x00000000       0x54 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.memmove
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.qsort
+                0x00000000      0x26c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.rand
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.snprintf
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.sprintf
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.srand
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.sscanf
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strcasecmp
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strcasestr
+                0x00000000       0x78 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strcat
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strchr
+                0x00000000       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strcspn
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strdup
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strftime
+                0x00000000       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strncasecmp
+                0x00000000       0x4c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strncasestr
+                0x00000000       0x60 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strncat
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strlcat
+                0x00000000       0x58 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strnchr
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strncmp
+                0x00000000       0x64 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strncpy
+                0x00000000       0x40 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strlcpy
+                0x00000000       0x34 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strnlen
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strndup
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strnstr
+                0x00000000       0x60 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strpbrk
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strrchr
+                0x00000000       0x34 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strsep
+                0x00000000       0x58 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strspn
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strstr
+                0x00000000       0x50 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtod
+                0x00000000      0x1f8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtof
+                0x00000000      0x1a8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtok
+                0x00000000       0x74 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtok_r
+                0x00000000       0x78 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtol
+                0x00000000       0x90 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.atol
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.atoi
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.atof
+                0x00000000      0x120 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtoll
+                0x00000000       0xb0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.atoll
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtoul
+                0x00000000       0xa8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.strtoull
+                0x00000000       0xb8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.localtime_r
+                0x00000000      0x12c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.difftime
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.checktm
+                0x00000000      0x148 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.mktime
+                0x00000000      0x144 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ctime
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ctime_r
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.gmtime
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.gmtime_r
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.localtime
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.gettimeofday
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.settimeofday
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ulltoa
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.ultoa
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.utoa
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.vsnprintf
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.vsprintf
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.vsscanf
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcscat
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcschr
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcscmp
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcscpy
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcscspn
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcslen
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsdup
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsncat
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsnchr
+                0x00000000       0x34 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsncmp
+                0x00000000       0x3c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsncpy
+                0x00000000       0x3c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsnlen
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsnstr
+                0x00000000       0x60 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcspbrk
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsrchr
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcssep
+                0x00000000       0x58 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsspn
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcsstr
+                0x00000000       0x50 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcstok
+                0x00000000       0x74 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wcstok_r
+                0x00000000       0x78 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wmemcpy
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wmemccpy
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wmempcpy
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wmemmove
+                0x00000000       0x3c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wmemcmp
+                0x00000000       0x34 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wmemchr
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc.wmemset
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .data.libc.heap
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc.last.5384
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc.last.5854
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc.__crt_get_time_of_day
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.year_lengths
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.mon_name
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc.__atexitfns
+                0x00000000       0x80 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.invalid
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.str1.4
+                0x00000000      0x138 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .data.libc.__rand_next
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.mon_lengths
+                0x00000000       0x60 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.day_name
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.month_names
+                0x00000000       0x34 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc.asctime_buf
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.power
+                0x00000000       0x48 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc.__crt_set_time_of_day
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc.atexitfn_count
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .data.libc.__ungot
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .data.libc._lconv
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.__ctype
+                0x00000000      0x104 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .bss.libc._tm  0x00000000       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .rodata.libc.day_names
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .text.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .data.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .bss.libc      0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.longjmp
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memcpy
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memcpy_fast
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memcpy_small
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.memset
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.__aeabi_memset
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.setjmp
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.strcpy
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text.libc.strcmp
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .text          0x00000000        0x0 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .data          0x00000000        0x0 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .bss           0x00000000        0x0 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio
+                0x00000000        0x0 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.__do_nvdebug_operation
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_abort
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fopen
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fgets
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fputc
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fputs
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fread
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fwrite
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fseek
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_ftell
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_gets
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fflush
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fclose
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fgetc
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getchar
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_putchar
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_puts
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_rewind
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_clearerr
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_feof
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_ferror
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getch
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_time
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_vprintf
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_vfprintf
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_ungetc
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fgetpos
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_fsetpos
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_freopen
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_perror
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_remove
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_rename
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_tmpfile
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_tmpnam
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getenv
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_system
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_vfscanf
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_vscanf
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_exit
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_enabled
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_kbhit
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_ioctl
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_runtime_error
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_break
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getargs
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_geti
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getu
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getl
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getul
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getf
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getd
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getll
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_getull
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_filesize
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_accept
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_bind
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_listen
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_shutdown
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_socket
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_htons
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_htonl
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_loadsymbols
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text.libdebugio.debug_unloadsymbols
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .bss.libdebugio.getenv_buffer
+                0x00000000      0x400 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .bss.libdebugio.__dbgEnabled
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .bss.libdebugio.tmpnam_buffer
+                0x00000000      0x100 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .text          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .data          0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .bss           0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc.__errno
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc.__heap_lock
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc.__heap_unlock
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc.__printf_lock
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc.__printf_unlock
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc.__scanf_lock
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc.__scanf_unlock
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .bss.libc.errno
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .text.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .data.libc     0x00000000        0x0 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .bss.libc      0x00000000        0x0 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__int32_to_float32
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__int32_to_float64
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__uint32_to_float32
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__uint32_to_float64
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__int64_to_float32
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__int64_to_float64
+                0x00000000       0x60 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__uint64_to_float32
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__uint64_to_float64
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_to_int32
+                0x00000000       0x40 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_to_int64
+                0x00000000       0x8c C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_to_uint32
+                0x00000000       0x28 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_to_uint64
+                0x00000000       0x44 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_to_int32
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_to_int64
+                0x00000000       0x78 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_to_uint32
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_to_uint64
+                0x00000000       0x4c C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_to_float64
+                0x00000000       0x44 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_to_float32
+                0x00000000       0x64 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_add
+                0x00000000      0x14c C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_mul
+                0x00000000       0xb8 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_div
+                0x00000000       0x94 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_cmp
+                0x00000000       0x38 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_fcmpeq
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_fcmplt
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_fcmple
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_fcmpge
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_fcmpgt
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_add
+                0x00000000      0x1dc C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_mul
+                0x00000000      0x18c C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_div
+                0x00000000       0xc4 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_cmp
+                0x00000000       0x6c C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_dcmpeq
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_dcmplt
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_dcmple
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_dcmpge
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__aeabi_dcmpgt
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_signbit
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_signbit
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_isinf
+                0x00000000       0x10 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_isinf
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_isnan
+                0x00000000       0x14 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_isnan
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_isfinite
+                0x00000000        0xc C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_isfinite
+                0x00000000       0x18 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_isnormal
+                0x00000000       0x1c C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_isnormal
+                0x00000000       0x20 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float32_classify
+                0x00000000       0x24 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .text.libc.__float64_classify
+                0x00000000       0x30 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .rodata.libc.__float32_infinity
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .rodata.libc.__float32_nan
+                0x00000000        0x4 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .rodata.libc.__float64_infinity
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+ .rodata.libc.__float64_nan
+                0x00000000        0x8 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+UNPLACED_SECTIONS 0xffffffff         0x00000000         xw
+FLASH            0x08000000         0x00010000         xr
+RAM              0x20000000         0x00002000         xw
+CM0_System_Control_Space 0xe000e000         0x00001000         xw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x08000f94                __do_debug_operation = __do_debug_operation_mempoll
+                0x080004f4                __vfprintf = __vfprintf_int
+                0x08000b24                __vfscanf = __vfscanf_int
+                0x08000000                __FLASH_segment_start__ = 0x8000000
+                0x08010000                __FLASH_segment_end__ = 0x8010000
+                0x20000000                __RAM_segment_start__ = 0x20000000
+                0x20002000                __RAM_segment_end__ = 0x20002000
+                0xe000e000                __CM0_System_Control_Space_segment_start__ = 0xe000e000
+                0xe000f000                __CM0_System_Control_Space_segment_end__ = 0xe000f000
+                0x00000080                __STACKSIZE__ = 0x80
+                0x00000000                __STACKSIZE_PROCESS__ = 0x0
+                0x00000000                __STACKSIZE_IRQ__ = 0x0
+                0x00000000                __STACKSIZE_FIQ__ = 0x0
+                0x00000000                __STACKSIZE_SVC__ = 0x0
+                0x00000000                __STACKSIZE_ABT__ = 0x0
+                0x00000000                __STACKSIZE_UND__ = 0x0
+                0x00000080                __HEAPSIZE__ = 0x80
+                0x20000000                __vectors_ram_load_start__ = ALIGN (__RAM_segment_start__, 0x100)
+
+.vectors_ram    0x20000000        0x0
+                0x20000000                __vectors_ram_start__ = .
+ *(.vectors_ram .vectors_ram.*)
+                0x20000000                __vectors_ram_end__ = (__vectors_ram_start__ + SIZEOF (.vectors_ram))
+                0x20000000                __vectors_ram_load_end__ = __vectors_ram_end__
+                0x00000001                . = ASSERT (((__vectors_ram_end__ >= __RAM_segment_start__) && (__vectors_ram_end__ <= __RAM_segment_end__)), error: .vectors_ram is too large to fit in RAM memory segment)
+                0x08000000                __vectors_load_start__ = ALIGN (__FLASH_segment_start__, 0x100)
+
+.vectors        0x08000000       0xc0
+                0x08000000                __vectors_start__ = .
+ *(.vectors .vectors.*)
+ .vectors       0x08000000       0xc0 THUMB Debug/STM32_Startup.o
+                0x08000000                _vectors
+                0x080000c0                __vectors_end__ = (__vectors_start__ + SIZEOF (.vectors))
+                0x080000c0                __vectors_load_end__ = __vectors_end__
+                0x00000001                . = ASSERT (((__vectors_end__ >= __FLASH_segment_start__) && (__vectors_end__ <= __FLASH_segment_end__)), error: .vectors is too large to fit in FLASH memory segment)
+                0x080000c0                __init_load_start__ = ALIGN (__vectors_end__, 0x4)
+
+.init           0x080000c0      0x170
+                0x080000c0                __init_start__ = .
+ *(.init .init.*)
+ .init          0x080000c0      0x110 THUMB Debug/thumb_crt0.o
+                0x080000c0                _start
+                0x08000142                exit
+                0x08000166                __getchar
+                0x08000166                __putchar
+ .init          0x080001d0       0x60 THUMB Debug/STM32_Startup.o
+                0x080001d0                NMI_Handler
+                0x080001d2                HardFault_Handler
+                0x080001d4                MemManage_Handler
+                0x080001d6                BusFault_Handler
+                0x080001d8                UsageFault_Handler
+                0x080001da                SVC_Handler
+                0x080001dc                DebugMon_Handler
+                0x080001de                PendSV_Handler
+                0x080001e0                SysTick_Handler
+                0x080001e2                WWDG_IRQHandler
+                0x080001e4                PVD_IRQHandler
+                0x080001e6                RTC_IRQHandler
+                0x080001e8                FLASH_IRQHandler
+                0x080001ea                RCC_IRQHandler
+                0x080001ec                EXTI0_1_IRQHandler
+                0x080001ee                EXTI2_3_IRQHandler
+                0x080001f0                EXTI4_15_IRQHandler
+                0x080001f2                TS_IRQHandler
+                0x080001f4                DMA1_Channel1_IRQHandler
+                0x080001f6                DMA1_Channel2_3_IRQHandler
+                0x080001f8                DMA1_Channel4_5_IRQHandler
+                0x080001fa                ADC1_COMP_IRQHandler
+                0x080001fc                TIM1_BRK_UP_TRG_COM_IRQHandler
+                0x080001fe                TIM1_CC_IRQHandler
+                0x08000200                TIM2_IRQHandler
+                0x08000202                TIM3_IRQHandler
+                0x08000204                TIM6_DAC_IRQHandler
+                0x08000206                TIM14_IRQHandler
+                0x08000208                TIM15_IRQHandler
+                0x0800020a                TIM16_IRQHandler
+                0x0800020c                TIM17_IRQHandler
+                0x0800020e                I2C1_IRQHandler
+                0x08000210                I2C2_IRQHandler
+                0x08000212                SPI1_IRQHandler
+                0x08000214                SPI2_IRQHandler
+                0x08000216                USART1_IRQHandler
+                0x08000218                USART2_IRQHandler
+                0x0800021a                CEC_IRQHandler
+                0x0800021c                reset_handler
+                0x08000230                __init_end__ = (__init_start__ + SIZEOF (.init))
+                0x08000230                __init_load_end__ = __init_end__
+                0x00000001                . = ASSERT (((__init_end__ >= __FLASH_segment_start__) && (__init_end__ <= __FLASH_segment_end__)), error: .init is too large to fit in FLASH memory segment)
+                0x08000230                __text_load_start__ = ALIGN (__init_end__, 0x4)
+
+.text           0x08000230      0xd9c
+                0x08000230                __text_start__ = .
+ *(.text .text.* .glue_7t .glue_7 .gnu.linkonce.t.* .gcc_except_table .ARM.extab* .gnu.linkonce.armextab.*)
+ .glue_7        0x00000000        0x0 linker stubs
+ .glue_7t       0x00000000        0x0 linker stubs
+ .text.main     0x08000230       0x68 THUMB Debug/main.o
+                0x08000230                main
+ .text.SystemInit
+                0x08000298       0x94 THUMB Debug/system_stm32f0xx.o
+                0x08000298                SystemInit
+ .text.SetSysClock
+                0x0800032c      0x138 THUMB Debug/system_stm32f0xx.o
+ .text.libc.__int32_div
+                0x08000464       0x64 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+                0x08000464                __int32_div
+                0x08000464                __aeabi_idiv
+                0x08000464                __divsi3
+                0x080004a0                __aeabi_uidiv
+                0x080004a0                __uint32_div
+                0x080004a0                __udivsi3
+ .text.libc.__aeabi_uidivmod
+                0x080004c8       0x2c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+                0x080004c8                __aeabi_uidivmod
+                0x080004c8                __int32_udivmod
+ .text.libc.__vfprintf_int
+                0x080004f4      0x4a0 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+                0x080004f4                __vfprintf_int
+ .text.libc.__ungetc
+                0x08000994       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .text.libc.rd_int
+                0x080009b4      0x170 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .text.libc.__vfscanf_int
+                0x08000b24      0x344 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+                0x08000b24                __vfscanf_int
+ .text.libc.__getc
+                0x08000e68       0x24 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000e68                __getc
+ .text.libc.__putc
+                0x08000e8c       0x3c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000e8c                __putc
+ .text.libc.__print_padding
+                0x08000ec8       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000ec8                __print_padding
+ .text.libc.__pre_padding
+                0x08000ee0       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000ee0                __pre_padding
+ .text.libc.isupper
+                0x08000ef8       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000ef8                isupper
+ .text.libc.islower
+                0x08000f08       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000f08                islower
+ .text.libc.isdigit
+                0x08000f18       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000f18                isdigit
+ .text.libc.__digit
+                0x08000f28       0x44 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000f28                __digit
+ .text.libc.isspace
+                0x08000f6c       0x18 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x08000f6c                isspace
+ .text.libc.strlen
+                0x08000f84       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+                0x08000f84                strlen
+ .text.libdebugio.__do_debug_operation_mempoll
+                0x08000f94       0x30 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+                0x08000f94                __do_debug_operation_mempoll
+ .text.libc.__debug_io_lock
+                0x08000fc4        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+                0x08000fc4                __debug_io_lock
+ .text.libc.__debug_io_unlock
+                0x08000fc8        0x4 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+                0x08000fc8                __debug_io_unlock
+                0x08000fcc                __text_end__ = (__text_start__ + SIZEOF (.text))
+                0x08000fcc                __text_load_end__ = __text_end__
+
+.vfp11_veneer   0x00000000        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000000        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+                0x00000001                . = ASSERT (((__text_end__ >= __FLASH_segment_start__) && (__text_end__ <= __FLASH_segment_end__)), error: .text is too large to fit in FLASH memory segment)
+                0x08000fcc                __dtors_load_start__ = ALIGN (__text_end__, 0x4)
+
+.dtors          0x08000fcc        0x0
+                0x08000fcc                __dtors_start__ = .
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.fini_array .fini_array.*)
+                0x08000fcc                __dtors_end__ = (__dtors_start__ + SIZEOF (.dtors))
+                0x08000fcc                __dtors_load_end__ = __dtors_end__
+                0x00000001                . = ASSERT (((__dtors_end__ >= __FLASH_segment_start__) && (__dtors_end__ <= __FLASH_segment_end__)), error: .dtors is too large to fit in FLASH memory segment)
+                0x08000fcc                __ctors_load_start__ = ALIGN (__dtors_end__, 0x4)
+
+.ctors          0x08000fcc        0x0
+                0x08000fcc                __ctors_start__ = .
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *(.init_array .init_array.*)
+                0x08000fcc                __ctors_end__ = (__ctors_start__ + SIZEOF (.ctors))
+                0x08000fcc                __ctors_load_end__ = __ctors_end__
+                0x00000001                . = ASSERT (((__ctors_end__ >= __FLASH_segment_start__) && (__ctors_end__ <= __FLASH_segment_end__)), error: .ctors is too large to fit in FLASH memory segment)
+                0x08000fcc                __rodata_load_start__ = ALIGN (__ctors_end__, 0x4)
+
+.rodata         0x08000fcc      0x424
+                0x08000fcc                __rodata_start__ = .
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.libc.__vfprintf_int
+                0x08000fcc      0x2ac C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .rodata.libc.str1.4
+                0x08001278        0x8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .rodata.libc.__vfscanf_int
+                0x08001280      0x150 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .rodata.libc.__hex_lc
+                0x080013d0       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x080013d0                __hex_lc
+ .rodata.libc.__hex_uc
+                0x080013e0       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x080013e0                __hex_uc
+                0x080013f0                __rodata_end__ = (__rodata_start__ + SIZEOF (.rodata))
+                0x080013f0                __rodata_load_end__ = __rodata_end__
+                0x00000001                . = ASSERT (((__rodata_end__ >= __FLASH_segment_start__) && (__rodata_end__ <= __FLASH_segment_end__)), error: .rodata is too large to fit in FLASH memory segment)
+                0x080013f0                __ARM.exidx_load_start__ = ALIGN (__rodata_end__, 0x4)
+
+.ARM.exidx      0x080013f0        0x0
+                0x080013f0                __ARM.exidx_start__ = .
+                0x080013f0                __exidx_start = __ARM.exidx_start__
+ *(.ARM.exidx .ARM.exidx.*)
+                0x080013f0                __ARM.exidx_end__ = (__ARM.exidx_start__ + SIZEOF (.ARM.exidx))
+                0x080013f0                __exidx_end = __ARM.exidx_end__
+                0x080013f0                __ARM.exidx_load_end__ = __ARM.exidx_end__
+                0x00000001                . = ASSERT (((__ARM.exidx_end__ >= __FLASH_segment_start__) && (__ARM.exidx_end__ <= __FLASH_segment_end__)), error: .ARM.exidx is too large to fit in FLASH memory segment)
+                0x080013f0                __fast_load_start__ = ALIGN (__ARM.exidx_end__, 0x4)
+
+.fast           0x20000000        0x0 load address 0x080013f0
+                0x20000000                __fast_start__ = .
+ *(.fast .fast.*)
+                0x20000000                __fast_end__ = (__fast_start__ + SIZEOF (.fast))
+                0x080013f0                __fast_load_end__ = (__fast_load_start__ + SIZEOF (.fast))
+                0x00000001                . = ASSERT (((__fast_load_end__ >= __FLASH_segment_start__) && (__fast_load_end__ <= __FLASH_segment_end__)), error: .fast is too large to fit in FLASH memory segment)
+
+.fast_run       0x20000000        0x0
+                0x20000000                __fast_run_start__ = .
+                0x20000000                . = MAX ((__fast_run_start__ + SIZEOF (.fast)), .)
+                0x20000000                __fast_run_end__ = (__fast_run_start__ + SIZEOF (.fast_run))
+                0x20000000                __fast_run_load_end__ = __fast_run_end__
+                0x00000001                . = ASSERT (((__fast_run_end__ >= __RAM_segment_start__) && (__fast_run_end__ <= __RAM_segment_end__)), error: .fast_run is too large to fit in RAM memory segment)
+                0x080013f0                __data_load_start__ = ALIGN ((__fast_load_start__ + SIZEOF (.fast)), 0x4)
+
+.data           0x20000000        0x0 load address 0x080013f0
+                0x20000000                __data_start__ = .
+ *(.data .data.* .gnu.linkonce.d.*)
+                0x20000000                __data_end__ = (__data_start__ + SIZEOF (.data))
+                0x080013f0                __data_load_end__ = (__data_load_start__ + SIZEOF (.data))
+                0x00000001                . = ASSERT (((__data_load_end__ >= __FLASH_segment_start__) && (__data_load_end__ <= __FLASH_segment_end__)), error: .data is too large to fit in FLASH memory segment)
+
+.data_run       0x20000000        0x0
+                0x20000000                __data_run_start__ = .
+                0x20000000                . = MAX ((__data_run_start__ + SIZEOF (.data)), .)
+                0x20000000                __data_run_end__ = (__data_run_start__ + SIZEOF (.data_run))
+                0x20000000                __data_run_load_end__ = __data_run_end__
+                0x00000001                . = ASSERT (((__data_run_end__ >= __RAM_segment_start__) && (__data_run_end__ <= __RAM_segment_end__)), error: .data_run is too large to fit in RAM memory segment)
+                0x20000000                __bss_load_start__ = ALIGN (__data_run_end__, 0x4)
+
+.bss            0x20000000        0xc
+                0x20000000                __bss_start__ = .
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss.libc.__format_extender
+                0x20000000        0x4 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                0x20000000                __format_extender
+ .bss.libdebugio.dbgCommWord
+                0x20000004        0x4 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+                0x20000004                dbgCommWord
+ .bss.libdebugio.dbgCntrlWord_mempoll
+                0x20000008        0x4 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+                0x20000008                dbgCntrlWord_mempoll
+ *(COMMON)
+                0x2000000c                __bss_end__ = (__bss_start__ + SIZEOF (.bss))
+                0x2000000c                __bss_load_end__ = __bss_end__
+                0x00000001                . = ASSERT (((__bss_end__ >= __RAM_segment_start__) && (__bss_end__ <= __RAM_segment_end__)), error: .bss is too large to fit in RAM memory segment)
+                0x2000000c                __non_init_load_start__ = ALIGN (__bss_end__, 0x4)
+
+.non_init       0x2000000c        0x0
+                0x2000000c                __non_init_start__ = .
+ *(.non_init .non_init.*)
+                0x2000000c                __non_init_end__ = (__non_init_start__ + SIZEOF (.non_init))
+                0x2000000c                __non_init_load_end__ = __non_init_end__
+                0x00000001                . = ASSERT (((__non_init_end__ >= __RAM_segment_start__) && (__non_init_end__ <= __RAM_segment_end__)), error: .non_init is too large to fit in RAM memory segment)
+                0x2000000c                __heap_load_start__ = ALIGN (__non_init_end__, 0x4)
+
+.heap           0x2000000c       0x80
+                0x2000000c                __heap_start__ = .
+ *(.heap .heap.*)
+                0x2000008c                . = ALIGN (MAX ((__heap_start__ + __HEAPSIZE__), .), 0x4)
+ *fill*         0x2000000c       0x80 00
+                0x2000008c                __heap_end__ = (__heap_start__ + SIZEOF (.heap))
+                0x2000008c                __heap_load_end__ = __heap_end__
+                0x00000001                . = ASSERT (((__heap_end__ >= __RAM_segment_start__) && (__heap_end__ <= __RAM_segment_end__)), error: .heap is too large to fit in RAM memory segment)
+                0x2000008c                __stack_load_start__ = ALIGN (__heap_end__, 0x4)
+
+.stack          0x2000008c       0x80
+                0x2000008c                __stack_start__ = .
+ *(.stack .stack.*)
+                0x2000010c                . = ALIGN (MAX ((__stack_start__ + __STACKSIZE__), .), 0x4)
+ *fill*         0x2000008c       0x80 00
+                0x2000010c                __stack_end__ = (__stack_start__ + SIZEOF (.stack))
+                0x2000010c                __stack_load_end__ = __stack_end__
+                0x00000001                . = ASSERT (((__stack_end__ >= __RAM_segment_start__) && (__stack_end__ <= __RAM_segment_end__)), error: .stack is too large to fit in RAM memory segment)
+                0x2000010c                __stack_process_load_start__ = ALIGN (__stack_end__, 0x4)
+
+.stack_process  0x2000010c        0x0
+                0x2000010c                __stack_process_start__ = .
+ *(.stack_process .stack_process.*)
+                0x2000010c                . = ALIGN (MAX ((__stack_process_start__ + __STACKSIZE_PROCESS__), .), 0x4)
+                0x2000010c                __stack_process_end__ = (__stack_process_start__ + SIZEOF (.stack_process))
+                0x2000010c                __stack_process_load_end__ = __stack_process_end__
+                0x00000001                . = ASSERT (((__stack_process_end__ >= __RAM_segment_start__) && (__stack_process_end__ <= __RAM_segment_end__)), error: .stack_process is too large to fit in RAM memory segment)
+                0x2000010c                __tbss_load_start__ = ALIGN (__stack_process_end__, 0x4)
+
+.tbss           0x2000010c        0x0
+                0x2000010c                __tbss_start__ = .
+ *(.tbss .tbss.*)
+                0x2000010c                __tbss_end__ = (__tbss_start__ + SIZEOF (.tbss))
+                0x2000010c                __tbss_load_end__ = __tbss_end__
+                0x00000001                . = ASSERT (((__tbss_end__ >= __RAM_segment_start__) && (__tbss_end__ <= __RAM_segment_end__)), error: .tbss is too large to fit in RAM memory segment)
+                0x080013f0                __tdata_load_start__ = ALIGN ((__data_load_start__ + SIZEOF (.data)), 0x4)
+
+.tdata          0x2000010c        0x0 load address 0x080013f0
+                0x2000010c                __tdata_start__ = .
+ *(.tdata .tdata.*)
+                0x2000010c                __tdata_end__ = (__tdata_start__ + SIZEOF (.tdata))
+                0x080013f0                __tdata_load_end__ = (__tdata_load_start__ + SIZEOF (.tdata))
+                0x080013f0                __FLASH_segment_used_end__ = (ALIGN ((__data_load_start__ + SIZEOF (.data)), 0x4) + SIZEOF (.tdata))
+                0x00000001                . = ASSERT (((__tdata_load_end__ >= __FLASH_segment_start__) && (__tdata_load_end__ <= __FLASH_segment_end__)), error: .tdata is too large to fit in FLASH memory segment)
+
+.tdata_run      0x2000010c        0x0
+                0x2000010c                __tdata_run_start__ = .
+                0x2000010c                . = MAX ((__tdata_run_start__ + SIZEOF (.tdata)), .)
+                0x2000010c                __tdata_run_end__ = (__tdata_run_start__ + SIZEOF (.tdata_run))
+                0x2000010c                __tdata_run_load_end__ = __tdata_run_end__
+                0x2000010c                __RAM_segment_used_end__ = (ALIGN (__tbss_end__, 0x4) + SIZEOF (.tdata_run))
+                0x00000001                . = ASSERT (((__tdata_run_end__ >= __RAM_segment_start__) && (__tdata_run_end__ <= __RAM_segment_end__)), error: .tdata_run is too large to fit in RAM memory segment)
+START GROUP
+LOAD THUMB Debug/main.o
+LOAD THUMB Debug/system_stm32f0xx.o
+LOAD THUMB Debug/thumb_crt0.o
+LOAD THUMB Debug/STM32_Startup.o
+LOAD C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a
+LOAD C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a
+LOAD C:/DEV/CW_ARM/lib/libcpp_v6m_t_le_eabi.a
+LOAD C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a
+LOAD C:/DEV/CW_ARM/lib/libc_targetio_impl_v6m_t_le_eabi.a
+LOAD C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a
+END GROUP
+OUTPUT(THUMB Debug/Executable_1.elf elf32-littlearm)
+
+.debug_frame    0x00000000     0x2744
+ .debug_frame   0x00000000       0x3c THUMB Debug/main.o
+ .debug_frame   0x0000003c       0x8c THUMB Debug/system_stm32f0xx.o
+ .debug_frame   0x000000c8      0x220 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .debug_frame   0x000002e8       0x48 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .debug_frame   0x00000330       0x9c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .debug_frame   0x000003cc     0x146c C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .debug_frame   0x00001838      0x120 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .debug_frame   0x00001958      0x74c C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .debug_frame   0x000020a4       0xa0 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .debug_frame   0x00002144      0x600 C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
+
+.debug_info     0x00000000     0x18ac
+ .debug_info    0x00000000      0x1aa THUMB Debug/main.o
+ .debug_info    0x000001aa      0x322 THUMB Debug/system_stm32f0xx.o
+ .debug_info    0x000004cc       0x67 THUMB Debug/thumb_crt0.o
+ .debug_info    0x00000533       0x7a THUMB Debug/STM32_Startup.o
+ .debug_info    0x000005ad       0x36 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .debug_info    0x000005e3       0x65 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .debug_info    0x00000648      0xc78 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .debug_info    0x000012c0      0x51f C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .debug_info    0x000017df       0xcd C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+
+.debug_abbrev   0x00000000      0x352
+ .debug_abbrev  0x00000000       0xa3 THUMB Debug/main.o
+ .debug_abbrev  0x000000a3      0x133 THUMB Debug/system_stm32f0xx.o
+ .debug_abbrev  0x000001d6       0x14 THUMB Debug/thumb_crt0.o
+ .debug_abbrev  0x000001ea       0x14 THUMB Debug/STM32_Startup.o
+ .debug_abbrev  0x000001fe       0x25 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .debug_abbrev  0x00000223       0x43 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .debug_abbrev  0x00000266       0x8f C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .debug_abbrev  0x000002f5       0x38 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .debug_abbrev  0x0000032d       0x25 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+
+.debug_loc      0x00000000     0x1dd0
+ .debug_loc     0x00000000       0x38 THUMB Debug/main.o
+ .debug_loc     0x00000038       0x9c THUMB Debug/system_stm32f0xx.o
+ .debug_loc     0x000000d4       0x39 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .debug_loc     0x0000010d       0x91 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .debug_loc     0x0000019e     0x143e C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .debug_loc     0x000015dc      0x7f4 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+
+.debug_aranges  0x00000000      0x860
+ .debug_aranges
+                0x00000000       0x20 THUMB Debug/main.o
+ .debug_aranges
+                0x00000020       0x30 THUMB Debug/system_stm32f0xx.o
+ .debug_aranges
+                0x00000050       0x20 THUMB Debug/thumb_crt0.o
+ .debug_aranges
+                0x00000070       0x20 THUMB Debug/STM32_Startup.o
+ .debug_aranges
+                0x00000090       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .debug_aranges
+                0x000000b0       0x30 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .debug_aranges
+                0x000000e0      0x508 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .debug_aranges
+                0x000005e8      0x218 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .debug_aranges
+                0x00000800       0x60 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+
+.debug_ranges   0x00000000      0x7b0
+ .debug_ranges  0x00000000       0x10 THUMB Debug/main.o
+ .debug_ranges  0x00000010       0x20 THUMB Debug/system_stm32f0xx.o
+ .debug_ranges  0x00000030       0x10 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .debug_ranges  0x00000040       0x20 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .debug_ranges  0x00000060      0x4f8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .debug_ranges  0x00000558      0x208 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .debug_ranges  0x00000760       0x50 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+
+.debug_line     0x00000000      0xf23
+ .debug_line    0x00000000       0x93 THUMB Debug/main.o
+ .debug_line    0x00000093      0x11b THUMB Debug/system_stm32f0xx.o
+ .debug_line    0x000001ae       0xaa THUMB Debug/thumb_crt0.o
+ .debug_line    0x00000258       0xad THUMB Debug/STM32_Startup.o
+ .debug_line    0x00000305       0x6a C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .debug_line    0x0000036f       0x69 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .debug_line    0x000003d8      0x5a8 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .debug_line    0x00000980      0x53a C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .debug_line    0x00000eba       0x69 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+
+.debug_str      0x00000000      0xd40
+ .debug_str     0x00000000      0x159 THUMB Debug/main.o
+                                0x18d (size before relaxing)
+ .debug_str     0x00000159      0x13a THUMB Debug/system_stm32f0xx.o
+                                0x21e (size before relaxing)
+ .debug_str     0x00000293       0x59 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+                                 0xa2 (size before relaxing)
+ .debug_str     0x000002ec       0x71 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+                                 0xba (size before relaxing)
+ .debug_str     0x0000035d      0x574 C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+                                0x64a (size before relaxing)
+ .debug_str     0x000008d1      0x3a8 C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+                                0x3f1 (size before relaxing)
+ .debug_str     0x00000c79       0xc7 C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+                                0x110 (size before relaxing)
+
+.comment        0x00000000       0x4e
+ .comment       0x00000000       0x4e THUMB Debug/main.o
+                                 0x4f (size before relaxing)
+ .comment       0x00000000       0x4f THUMB Debug/system_stm32f0xx.o
+ .comment       0x00000000       0x4f C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .comment       0x00000000       0x4f C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .comment       0x00000000       0x4f C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .comment       0x00000000       0x4f C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .comment       0x00000000       0x4f C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x31 THUMB Debug/main.o
+ .ARM.attributes
+                0x00000031       0x31 THUMB Debug/system_stm32f0xx.o
+ .ARM.attributes
+                0x00000062       0x23 THUMB Debug/thumb_crt0.o
+ .ARM.attributes
+                0x00000085       0x23 THUMB Debug/STM32_Startup.o
+ .ARM.attributes
+                0x000000a8       0x1d C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc_asm.o)
+ .ARM.attributes
+                0x000000c5       0x2b C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfprintf_int.o)
+ .ARM.attributes
+                0x000000f0       0x2b C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(__vfscanf_int.o)
+ .ARM.attributes
+                0x0000011b       0x2b C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2.o)
+ .ARM.attributes
+                0x00000146       0x1d C:/DEV/CW_ARM/lib/libc_v6m_t_le_eabi.a(libc2_asm.o)
+ .ARM.attributes
+                0x00000163       0x2b C:/DEV/CW_ARM/lib/libdebugio_v6m_t_le_eabi.a(libdebugio.o)
+ .ARM.attributes
+                0x0000018e       0x2b C:/DEV/CW_ARM/lib/libc_user_libc_v6m_t_le_eabi.a(user_libc.o)
+ .ARM.attributes
+                0x000001b9       0x1d C:/DEV/CW_ARM/lib/libm_v6m_t_le_eabi.a(libm_asm.o)
